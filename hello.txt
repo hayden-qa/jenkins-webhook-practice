@@ -1,2 +1,1 @@
-Hello from GitHub!
-Webhook 자동 빌드 테스트 중.
+수정
